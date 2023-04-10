@@ -14,13 +14,17 @@ class PoliSeeder extends Seeder
      */
     public function run(): void
     {
-        Poli::create(['nama' => 'Poli Anak']);
-        Poli::create(['nama' => 'Poli Bedah']);
-        Poli::create(['nama' => 'Poli Gigi']);
-        Poli::create(['nama' => 'Poli Kandungan']);
-        Poli::create(['nama' => 'Poli Mata']);
-        Poli::create(['nama' => 'Poli Umum']);
-        Poli::create(['nama' => 'Poli Penyakit Dalam']);
-        Poli::create(['nama' => 'Poli Saraf']);
+        $poli = [
+            ['nama' => 'Poli Anak'],
+            ['nama' => 'Poli Bedah'],
+            ['nama' => 'Poli Gigi'],
+            ['nama' => 'Poli Kandungan'],
+            ['nama' => 'Poli Mata'],
+            ['nama' => 'Poli Umum'],
+            ['nama' => 'Poli Penyakit Dalam'],
+            ['nama' => 'Poli Saraf']
+        ];
+        
+        Poli::insert($poli);
     }
 }

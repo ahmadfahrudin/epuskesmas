@@ -19,7 +19,7 @@ class PengunjungSeeder extends Seeder
         $data = [
             [
                 'nik' => '2203304405506601',
-                'nama' => 'Ahmad Fahrudin',
+                'nama' => 'Lionel Messi',
                 'telepon' => '081000111222',
                 'alamat' => 'Kalikajar, Wonosobo',
                 'tgl_kunjung' => Carbon::now(),
@@ -28,7 +28,7 @@ class PengunjungSeeder extends Seeder
 
             [
                 'nik' => '2203304405506602',
-                'nama' => 'Anies Baswedan',
+                'nama' => 'Cristiano Ronaldo',
                 'telepon' => '08100011133',
                 'alamat' => 'Kertek, Wonosobo',
                 'tgl_kunjung' => Carbon::now()->addDay(),
@@ -37,7 +37,7 @@ class PengunjungSeeder extends Seeder
 
             [
                 'nik' => '2203304405506603',
-                'nama' => 'Ganjar Pranowo',
+                'nama' => 'Neymar Jr',
                 'telepon' => '081000111444',
                 'alamat' => 'Kalibeber, Wonosobo',
                 'tgl_kunjung' => Carbon::now()->addDay(3),
@@ -46,7 +46,7 @@ class PengunjungSeeder extends Seeder
 
             [
                 'nik' => '2203304405506604',
-                'nama' => 'Joko Widodo',
+                'nama' => 'Kylian Mbappe',
                 'telepon' => '081000111555',
                 'alamat' => 'Kejajar, Wonosobo',
                 'tgl_kunjung' => Carbon::now()->addDay(2),
@@ -54,12 +54,57 @@ class PengunjungSeeder extends Seeder
             ],
 
             [
-                'nik' => '2203304405506608',
-                'nama' => 'Prabowo Subianto',
+                'nik' => '2203304405506605',
+                'nama' => 'Mohammed Salah',
                 'telepon' => '081000111666',
                 'alamat' => 'Selomerto, Wonosobo',
                 'tgl_kunjung' => Carbon::now()->addDay(5),
                 'poli_id' => '8'
+            ],
+
+            [
+                'nik' => '2203304405506606',
+                'nama' => 'Kevin De Bruyne',
+                'telepon' => '081000111666',
+                'alamat' => 'Garung, Wonosobo',
+                'tgl_kunjung' => Carbon::now()->addDay(5),
+                'poli_id' => '2'
+            ],
+
+            [
+                'nik' => '2203304405506607',
+                'nama' => 'Virgil van Dijk',
+                'telepon' => '081000111666',
+                'alamat' => 'Kalibawang, Wonosobo',
+                'tgl_kunjung' => Carbon::now()->addDay(5),
+                'poli_id' => '1'
+            ],
+
+            [
+                'nik' => '2203304405506608',
+                'nama' => 'Robert Lewandowski',
+                'telepon' => '081000111666',
+                'alamat' => 'Kepil, Wonosobo',
+                'tgl_kunjung' => Carbon::now()->addDay(5),
+                'poli_id' => '2'
+            ],
+
+            [
+                'nik' => '2203304405506609',
+                'nama' => 'Sergio Ramos',
+                'telepon' => '081000111666',
+                'alamat' => 'Leksono, Wonosobo',
+                'tgl_kunjung' => Carbon::now()->addDay(5),
+                'poli_id' => '8'
+            ],
+
+            [
+                'nik' => '2203304405506610',
+                'nama' => 'Manuel Neuer',
+                'telepon' => '081000111666',
+                'alamat' => 'Sapuran, Wonosobo',
+                'tgl_kunjung' => Carbon::now()->addDay(5),
+                'poli_id' => '4'
             ]
         ];
 
