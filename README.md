@@ -41,6 +41,22 @@ Setelah mengikuti langkag-langkah pada bagian Installation, Anda dapat mengakses
 Anda dapat melakukan akses dashboard admin dengan mengunjungi http://localhost/epuskesmas/login
 Gunakan email '<b>admin@gmail.com</b>' dan password '<b>password</b>' untuk masuk.
 
+## Screenshoots
+Tampilan Home Pengunjung
+<img src="https://github.com/ahmadfahrudin/img/blob/master/ss-epuskesmas/ss1%20-%20pengunjung%20home.png?raw=true" alt="tampilan home epuskesmas" title="Tampilan Home E-Puskesmas" height="400">
+
+Tampilan Pendaftaran Pengunjung
+<img src="https://github.com/ahmadfahrudin/img/blob/master/ss-epuskesmas/ss2%20-%20pengunjung%20pendaftaran.png?raw=true" alt="tampilan pendaftaran epuskesmas" title="Tampilan Pendaftaran Pengunjung" height="400">
+
+Tampilan Home Admin
+<img src="https://github.com/ahmadfahrudin/img/blob/master/ss-epuskesmas/ss3%20-%20admin%20home.png?raw=true" alt="tampilan home admin epuskesmas" title="Tampilan Home Admin" height="400">
+
+Tampilan Statistik Pengunjung Berdasarkan Jenis Layanan Poli dan Tanggal
+<img src="https://github.com/ahmadfahrudin/img/blob/master/ss-epuskesmas/ss4%20-%20admin%20pengunjung.png?raw=true" alt="tampilan statistik pengunjung epuskesmas" title="Tampilan Statistik Pengunjung" height="400">
+
+Tampilan Layanan Admin
+<img src="https://github.com/ahmadfahrudin/img/blob/master/ss-epuskesmas/ss5%20-%20admin%20poli.png?raw=true" alt="tampilan layanan poli epuskesmas" title="Tampilan Layanan Poli Admin" height="400">
+
 ## Credits
 E-Puskesmas dikembangkan oleh Ahmad Fahrudin. Jika Anda menemukan bug atau ingin memberikan saran untuk project ini, silahkan buat issue pada repository atau menghubungi lewat
 Email: ahmadfahrudin.id@gmail.com
