@@ -41,8 +41,8 @@ Berikut adalah langkah-langkah untuk menginstall dan menjalankan project ini pad
 <li>Jalankan perintah berikut untuk menjalankan semua seeder (data pada tabel) yang ada pada project
 <blockquote>php artisan db:seed</blockquote>
 atau Anda dapat menjalankan seeder dengan satu per satu sesuai dengan class pada project
-<blockquote>php artisan db:seed --class=UserSeeder</blockquote></li>
-<blockquote>php artisan db:seed --class=PoliSeeder</blockquote></li>
+<blockquote>php artisan db:seed --class=UserSeeder</blockquote>
+<blockquote>php artisan db:seed --class=PoliSeeder</blockquote>
 <blockquote>php artisan db:seed --class=PengunjungSeeder</blockquote></li>
 </ol>
 
