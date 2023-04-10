@@ -36,9 +36,18 @@ atau Anda dapat menjalankan seeder dengan satu per satu sesuai dengan class pada
 </ol>
 
 ## Usage
-Setelah mengikuti langkag-langkah pada bagian Installation, Anda dapat mengakses project ini pada browser dengan mengunjungi URL http://localhost:8000 atau sesuaikan port yang Anda gunakan.
+Setelah mengikuti langkag-langkah pada bagian Installation, Anda dapat mengakses project ini pada browser dengan mengunjungi URL atau http://localhost/epuskesmas http://localhost:8000 atau sesuaikan port yang Anda gunakan.
 
-Anda dapat melakukan akses
+Anda dapat melakukan akses dashboard admin dengan mengunjungi http://localhost/epuskesmas/login
+Gunakan email '<b>admin@gmail.com</b>' dan password '<b>password</b>' untuk masuk.
+
+## Credits
+E-Puskesmas dikembangkan oleh Ahmad Fahrudin. Jika Anda menemukan bug atau ingin memberikan saran untuk project ini, silahkan buat issue pada repository atau menghubungi lewat
+Email: ahmadfahrudin.id@gmail.com
+Linkedin: https://www.linkedin.com/in/ahmadfahrudin08
+
+Tempalte yang digunakan dalam project yaitu https://htmlcodex.com/clinic-website-template/ dan https://htmlcodex.com/bootstrap-admin-template-free/
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
