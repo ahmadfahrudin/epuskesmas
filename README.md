@@ -36,7 +36,7 @@ atau Anda dapat menjalankan seeder dengan satu per satu sesuai dengan class pada
 </ol>
 
 ## Usage
-Setelah mengikuti langkag-langkah pada bagian Installation, Anda dapat mengakses project ini pada browser dengan mengunjungi URL atau http://localhost/epuskesmas http://localhost:8000 atau sesuaikan port yang Anda gunakan.
+Setelah mengikuti langkag-langkah pada bagian Installation, Anda dapat mengakses project ini pada browser dengan mengunjungi URL atau http://localhost/epuskesmas atau http://localhost:8000 atau sesuaikan port yang Anda gunakan.
 
 Anda dapat melakukan akses dashboard admin dengan mengunjungi http://localhost/epuskesmas/login
 Gunakan email '<b>admin@gmail.com</b>' dan password '<b>password</b>' untuk masuk.
